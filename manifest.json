@@ -3,10 +3,6 @@
   "name": "YouTube Music Precise Volume Control",
   "description": "Enhances the ability of controlling volume on the page. By middle-clicking  on the volume icon you can shrink the volume slider from 100 units to 10",
   "version": "1.0",
-  "action": {
-    "default_popup": "popup/popup.html",
-    "default_icon": "images/icon.png"
-  },
   "content_scripts": [
     {
       "js": [
